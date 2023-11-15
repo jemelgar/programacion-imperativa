@@ -113,7 +113,7 @@ const consecutivosSimilares = (str)=>{
     return count
 }
 console.log(consecutivosSimilares('BABABA')) //0
-console.log(consecutivosSimilares('AAAA')) //3
+console.log(consecutivosSimilares('AAABBB')) //3
 
 
 
